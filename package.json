@@ -1,0 +1,11 @@
+{
+    "name": "epgmerge",
+    "version": "1.0.0",
+    "main": "./src/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "xml2js": "^0.4.19",
+        "yargs": "^11.0.0"
+    }
+}
